@@ -1,1 +1,1 @@
-print('barren wasteland')
+babies
